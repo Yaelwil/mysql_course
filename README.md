@@ -1,4 +1,4 @@
-# 🚀 MySQL Learning Journey
+# 🚀 MySQL Learning Journey 
 
 Welcome to my personal playground for learning **MySQL** — one of the most popular relational database management systems!
 
