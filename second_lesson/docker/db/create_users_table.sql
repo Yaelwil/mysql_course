@@ -7,5 +7,5 @@ CREATE TABLE employees (
     Birth_Date DATE
 );
 
-INSERT INTO employees (first_name, last_name, birth_date) VALUES
-('John', 'Doe', '1995-04-20'),
+INSERT INTO employees (First_Name, Last_Name, Birth_Date) VALUES
+('John', 'Doe', '1995-04-20');

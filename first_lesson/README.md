@@ -1,5 +1,8 @@
-### 📚 Introduction to MySQL  
-#### 🧑‍🎓 First Lesson  
+# MySQL Essentials
+
+## 📘 Introduction to MySQL 
+
+### 🧑‍🎓 First Lesson  
 
 ---
 

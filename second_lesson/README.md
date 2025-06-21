@@ -1,5 +1,10 @@
+# MySQL Essentials
+
 ## 📘 Creating Tables in MySQL
-#### 🧑‍🎓 Second Lesson
+
+### 🧑‍🎓 Second Lesson
+
+---
 
 ## 🧠 Overview
 In this lesson, I deepened my understanding of how to create and manage tables in MySQL.  
@@ -24,6 +29,7 @@ I practiced working with data types, constraints, and advanced column features l
 - 🧮 Created a `full_name` column using:
   ```sql
   full_name VARCHAR(61) GENERATED ALWAYS AS (CONCAT(first_name, ' ', last_name)) VIRTUAL
+  ```
 
 Learned the difference between VIRTUAL and STORED generated columns.
 
@@ -35,4 +41,4 @@ Learned the difference between VIRTUAL and STORED generated columns.
 ### 📁 Additional files-
 
 - [🐳 docker-compose.yaml](docker/docker-compose.yaml)
-- [📜 create_users_table.sql](db/create_users_table.sql)
+- [📜 create_users_table.sql](docker/db/create_users_table.sql)
